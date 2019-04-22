@@ -1,0 +1,19 @@
+.block1 { 
+    width: 270px; 
+    background: white;
+    border: 4px solid black; 
+    float: left;
+	text-align: center;
+	font-size: 400%;
+	font-weight: bold;
+   }
+   .block2 { 
+    width: 80px; 
+    background: white;
+    border: 4px solid black; 
+    float: left;
+	font-weight: bold;
+	text-align: center;
+	font-size: 400%;
+   }
+   
