@@ -24,3 +24,177 @@ p {
 	  
 	  color:red;
   }
+
+.new { 
+	border: 3px solid orange;
+	width: 180px;
+	padding: 30px;
+	
+}
+   .bk1 {
+	border: 1px solid black;
+	background: yellow;
+	border-bottom:none;
+	
+	
+}
+   .bk2 {
+	  border: 1px solid black;
+	background: yellow;
+     padding-left:10px;
+   }
+	
+
+.text2 {
+	margin-bottom: 15px;
+}
+.wrapper {
+	position: relative;
+	margin-left:22px;
+}
+.new .under {
+	
+	position: absolute;
+	bottom: 1em;
+	white-space: nowrap;
+	
+}
+.words {
+	position: relative;
+	top: -2em;
+	white-space: nowrap;
+	margin-left:27px;
+}
+.words1 {
+	margin-right:11px;
+}
+
+.new .too {
+	margin-left:-3px;
+}
+.new .zero {
+   margin-left:20px;
+}
+.new .four {
+	margin-left:26.9px;
+}
+.new .six {
+	margin-left:21px;
+}
+.formula {
+	line-height:50px;
+}
+.number {
+	position: relative;
+	bottom: 43em;
+	white-space: nowrap;
+	margin-left:30px;
+}
+.number .four {
+	margin-left:-5px;
+}
+.number .six {
+	margin-left: 70px;
+}
+.number2 {
+	position: relative;
+	bottom: 40em;
+	white-space: nowrap;
+	margin-left:-105px;
+}
+.number2 .zero {
+	margin-left:35px;
+}
+.number2 .six {
+	margin-left:90px;
+}
+.number2 .one {
+	margin-left:50px;
+}
+.brom {
+	position: relative;
+	bottom: 37.5em;
+	white-space: nowrap;
+	margin-left:-200px;
+}
+.voda {
+	margin-left:77px;
+}
+.number3 {
+	position: relative;
+	bottom: 34.5em;
+	white-space: nowrap;
+	margin-left:30px;
+}
+.number3 .four {
+	margin-left:-130px;
+}
+.number3 .too {
+	margin-left:50px; 
+}
+.number3 .zero {
+	margin-left:76px;
+}
+.number4 {
+	position: relative;
+	bottom: 31em;
+	white-space: nowrap;
+}
+.number4 .four {
+	margin-left: -145px;
+}
+.number4 .too {
+	margin-left: 45px;
+}
+.number4 .zero {
+	margin-left: 77px;
+}
+ .button {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background: red;
+	border: 3px solid white;
+	position: absolute;
+	left: -20px;
+}
+div {
+  width: 500px;
+  
+  position: relative;
+}
+ol {
+  border-left: blue solid 3px;
+  padding-top: 2px;
+  
+}
+.figure2 {
+ border: 10px solid transparent;
+ border-bottom: 10px solid green;
+ display: inline-block;
+ left: -8.3px;
+ position: absolute;
+ 
+}
+.figure {
+/*   content: ''; */
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: orange;
+  position: absolute;
+  margin-top: calc( (1em - 10px) / 2 );
+  left: -6px;
+  border-radius: 50%;
+  border:  solid white;
+}
+.figure3 {
+	display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: blue;
+  position: absolute;
+  margin-top: calc( (1em - 10px) / 2 );
+  left: -6px;
+  border:  solid white;
+}
