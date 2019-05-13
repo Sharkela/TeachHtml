@@ -1,0 +1,26 @@
+table {
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+@media screen and (max-width: 770px) {
+     table { width: 100% }
+   }
+td {
+	padding: 30px;
+	
+  border: 2px solid lightgray;
+}
+.chit {
+	background-color: #e7eaf5;
+}
+.chit:hover {
+  background-color: #8d8dff;
+}
+em {
+	display: none;
+}
+.znak:hover em {
+  display: inline;
+}
+
+   
